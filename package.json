@@ -1,0 +1,23 @@
+{
+  "name": "positivitybot",
+  "version": "1.0.0",
+  "description": "postivity",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjacobs27/positivitybot.git"
+  },
+  "author": "caj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjacobs27/positivitybot/issues"
+  },
+  "homepage": "https://github.com/cjacobs27/positivitybot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tracery-grammar": "^2.7.4"
+  }
+}

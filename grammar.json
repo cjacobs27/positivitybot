@@ -1,0 +1,41 @@
+{
+    "origin": [
+        "#opening.capitalize# #verb# #adjective# #noun#"
+    ],
+    "opening": [
+        "remember, #noun#",
+        "remember that #noun#",
+        "#adjective# the #noun# is #adjective#, but"
+    ],
+    "verb": [
+        "loves",
+        "likes",
+        "grow",
+        "grows",
+        "helps",
+        "being the best you can be",
+        "#noun# comes",
+        "drinking water"
+    ],
+    "adjective": [
+        "sometimes",
+        "often",
+        "usually",
+        "never"
+    ],
+    "noun": [
+        "nobody",
+        "positivity",
+        "growth",
+        "self esteem",
+        "self confidence",
+        "self worth",
+        "selfishness",
+        "gratitude",
+        "ungratefulness",
+        "love",
+        "help",
+        "death"
+    ]
+}
+
