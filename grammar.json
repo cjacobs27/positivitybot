@@ -1,29 +1,16 @@
 {
     "origin": [
-        "#opening.capitalize##punctuation#"
+        "#sentence.capitalize##punctuation#"
     ],
-    "opening": [
-        "remember, #noun# is #end#",
-        "remember, #noun# is #middle# #end#",
-        "remember to #verb#, #end#",
-        "#adverb# the #noun# is #adjective#, but #end#",
-        "#adverb# the #noun# is #adjective#, but #middle# #end#",
-        "#adjective# #end#",
-        "#adjective# #middle# #end#",
-        "don't be pushed around by #end#",
-        "don't be pushed around by #middle# #end#",
-        "don't forget to #end#",
-        "don't be pushed around by #middle# #end#",
-        "nobody with #adjective# #noun# ever #didTheThing#",
-        "nobody with #adjective# #noun# #middle# ever #didTheThing",
-        "nobody with #adjective# #noun# #middle# #end# ever #didTheThing"
-    ],
-    "middle": [
-        "the #noun# in your heart,"
-    ],
-    "end": [
-        "#verb#",
-        "#verb# the #noun# in your #noun#"
+    "sentence": [
+        "#noun# is a choice. #noun.capitalize# is a choice. #noun.a.capitalize# is a choice. Whatever choice you make makes you. Choose wisely",
+        "Don't be pushed around by the #noun# in your mind. Be led by the #noun# in your #noun#",
+        "Instead of worrying about what you cannot #verb#, shift your #noun# to what you can #verb#",
+        "It’s only after you’ve #verbed# outside your comfort zone that you begin to #verb#, #verb#, and #verb#",
+        "#verb# is #noun#, #noun# is #noun#",
+        "nobody with a #adjective# #noun# ever #didTheThing#",
+        "nobody with #adjective# #noun.s# ever #didTheThing#",
+        "nobody with #adjective# #noun# ever #didTheThing#"
     ],
     "didTheThing": [
         "won the lottery",
@@ -31,17 +18,39 @@
         "overcame adversity"
     ],
     "verb": [
+        "love",
+        "like",
+        "grow",
+        "help",
+        "be the best you can be",
+        "drink water",
+        "choose",
+        "change",
+        "dream",
+        "transform",
+        "be an angry goose"
+    ],
+    "verbs": [
         "loves",
         "likes",
-        "grow",
-        "growing",
+        "grows",
         "helps",
         "being the best you can be",
         "#noun# comes",
         "drinking water",
         "is a choice",
-        "dream",
+        "dreaming",
         "hoping"
+    ],
+    "verbed": [
+        "loved",
+        "liked",
+        "grew",
+        "helped",
+        "#noun# came from",
+        "drank water",
+        "dreamed",
+        "hoped"
     ],
     "adjective": [
         "strong",
@@ -71,7 +80,9 @@
         "optimism",
         "dreams",
         "heart",
-        "chakra"
+        "chakra",
+        "carbs",
+        "angry goose"
     ],
     "punctuation": [
         ".",
