@@ -1,11 +1,21 @@
 {
     "origin": [
-        "#opening.capitalize# #verb# #adjective# #noun#"
+        "#opening.capitalize##punctuation#"
     ],
     "opening": [
-        "remember, #noun#",
-        "remember that #noun#",
-        "#adjective# the #noun# is #adjective#, but"
+        "remember, #noun# is #end#",
+        "remember, #noun# is #middle# #end#",
+        "remember to #verb#, #end#",
+        "#adverb# the #noun# is #adjective#, but #end#",
+        "#adjective# #end#",
+        "Don't be pushed around by #end#",
+        "Don't be pushed around by #middle# #end#"
+    ],
+    "middle": [
+        "the #noun# in your #noun#,"
+    ],
+    "end": [
+        "#verb# the #noun# in your #noun#"
     ],
     "verb": [
         "loves",
@@ -15,16 +25,26 @@
         "helps",
         "being the best you can be",
         "#noun# comes",
-        "drinking water"
+        "drinking water",
+        "is a choice",
+        "dream",
+        "hoping"
     ],
     "adjective": [
+        "strong",
+        "good",
+        "hopeful",
+        "optimistic"
+    ],
+    "adverb": [
         "sometimes",
         "often",
         "usually",
-        "never"
+        "never leads to",
+        "quickly"
     ],
     "noun": [
-        "nobody",
+        "nobody with",
         "positivity",
         "growth",
         "self esteem",
@@ -35,7 +55,17 @@
         "ungratefulness",
         "love",
         "help",
-        "death"
+        "death",
+        "optimism",
+        "dreams",
+        "heart"
+    ],
+    "punctuation": [
+        ".",
+        "!",
+        "?",
+        "~",
+        " UwU"
     ]
 }
 
