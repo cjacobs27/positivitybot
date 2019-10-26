@@ -7,21 +7,34 @@
         "remember, #noun# is #middle# #end#",
         "remember to #verb#, #end#",
         "#adverb# the #noun# is #adjective#, but #end#",
+        "#adverb# the #noun# is #adjective#, but #middle# #end#",
         "#adjective# #end#",
-        "Don't be pushed around by #end#",
-        "Don't be pushed around by #middle# #end#"
+        "#adjective# #middle# #end#",
+        "don't be pushed around by #end#",
+        "don't be pushed around by #middle# #end#",
+        "don't forget to #end#",
+        "don't be pushed around by #middle# #end#",
+        "nobody with #adjective# #noun# ever #didTheThing#",
+        "nobody with #adjective# #noun# #middle# ever #didTheThing",
+        "nobody with #adjective# #noun# #middle# #end# ever #didTheThing"
     ],
     "middle": [
-        "the #noun# in your #noun#,"
+        "the #noun# in your heart,"
     ],
     "end": [
+        "#verb#",
         "#verb# the #noun# in your #noun#"
+    ],
+    "didTheThing": [
+        "won the lottery",
+        "faced their demons",
+        "overcame adversity"
     ],
     "verb": [
         "loves",
         "likes",
         "grow",
-        "grows",
+        "growing",
         "helps",
         "being the best you can be",
         "#noun# comes",
@@ -44,7 +57,6 @@
         "quickly"
     ],
     "noun": [
-        "nobody with",
         "positivity",
         "growth",
         "self esteem",
@@ -58,14 +70,16 @@
         "death",
         "optimism",
         "dreams",
-        "heart"
+        "heart",
+        "chakra"
     ],
     "punctuation": [
         ".",
         "!",
-        "?",
         "~",
-        " UwU"
+        "~~",
+        " UwU",
+        " :)"
     ]
 }
 
