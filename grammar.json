@@ -1,47 +1,78 @@
 {
     "origin": [
-        "#opening.capitalize##punctuation#"
+        "#sentence.capitalize##punctuation#"
     ],
-    "opening": [
-        "remember, #noun# is #end#",
-        "remember, #noun# is #middle# #end#",
-        "remember to #verb#, #end#",
-        "#adverb# the #noun# is #adjective#, but #end#",
-        "#adverb# the #noun# is #adjective#, but #middle# #end#",
-        "#adjective# #end#",
-        "#adjective# #middle# #end#",
-        "don't be pushed around by #end#",
-        "don't be pushed around by #middle# #end#",
-        "don't forget to #end#",
-        "don't be pushed around by #middle# #end#",
+    "sentence": [
+        "#noun# is a choice. #noun.capitalize# is a choice. Whatever choice you make makes you. Choose wisely",
+        "Don't be pushed around by the #noun# in your mind. Be led by the #noun# in your heart",
+        "Instead of worrying about what you cannot #verb#, shift your #noun# to what you can #verb#",
+        "It’s only after you’ve #verbed# outside your comfort zone that you begin to #verb#, #verb#, and #verb#",
+        "#verb# is #noun#, #noun# is #noun#",
+        "nobody with a #adjective# #noun# ever #didTheThing#",
+        "nobody with #adjective#y #noun.s# ever #didTheThing#",
         "nobody with #adjective# #noun# ever #didTheThing#",
-        "nobody with #adjective# #noun# #middle# ever #didTheThing",
-        "nobody with #adjective# #noun# #middle# #end# ever #didTheThing"
-    ],
-    "middle": [
-        "the #noun# in your heart,"
-    ],
-    "end": [
-        "#verb#",
-        "#verb# the #noun# in your #noun#"
+        "take responsibility for your own #noun#, never put it in other people’s hands",
+        "you can, you should, and if you’re #adjective# enough to #verb#, you will",
+        "do what is #adjective#, not what is #adjective# nor what is #adjective#",
+        "you must be the #noun# you wish to see in the world",
+        "#verb# deep into nature, and then you will understand everything better"
     ],
     "didTheThing": [
         "won the lottery",
         "faced their demons",
-        "overcame adversity"
+        "overcame adversity",
+        "overcame the angry goose",
+        "owned a dog",
+        "went kitesurfing",
+        "#verbed#",
+        "succesfully #verbed#"
     ],
     "verb": [
+        "love",
+        "like",
+        "grow",
+        "help",
+        "be the best you can be",
+        "drink water",
+        "choose",
+        "change",
+        "dream",
+        "transform",
+        "be an angry goose"
+    ],
+    "verbing": [
+        "loving",
+        "liking",
+        "growing",
+        "helping",
+        "being the best you can be",
+        "drinking water",
+        "choosing",
+        "changing",
+        "dreaming",
+        "transforming",
+        "being an angry goose"
+    ],
+    "verbs": [
         "loves",
         "likes",
-        "grow",
-        "growing",
+        "grows",
         "helps",
         "being the best you can be",
         "#noun# comes",
         "drinking water",
         "is a choice",
-        "dream",
+        "dreaming",
         "hoping"
+    ],
+    "verbed": [
+        "loved",
+        "liked",
+        "grew",
+        "helped",
+        "drank water",
+        "dreamed",
+        "hoped"
     ],
     "adjective": [
         "strong",
@@ -67,11 +98,12 @@
         "ungratefulness",
         "love",
         "help",
-        "death",
+        "balloons",
         "optimism",
         "dreams",
         "heart",
-        "chakra"
+        "carbohydrate",
+        "angry goose"
     ],
     "punctuation": [
         ".",
