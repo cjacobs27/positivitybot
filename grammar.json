@@ -3,19 +3,29 @@
         "#sentence.capitalize##punctuation#"
     ],
     "sentence": [
-        "#noun# is a choice. #noun.capitalize# is a choice. #noun.a.capitalize# is a choice. Whatever choice you make makes you. Choose wisely",
-        "Don't be pushed around by the #noun# in your mind. Be led by the #noun# in your #noun#",
+        "#noun# is a choice. #noun.capitalize# is a choice. Whatever choice you make makes you. Choose wisely",
+        "Don't be pushed around by the #noun# in your mind. Be led by the #noun# in your heart",
         "Instead of worrying about what you cannot #verb#, shift your #noun# to what you can #verb#",
         "It’s only after you’ve #verbed# outside your comfort zone that you begin to #verb#, #verb#, and #verb#",
         "#verb# is #noun#, #noun# is #noun#",
         "nobody with a #adjective# #noun# ever #didTheThing#",
-        "nobody with #adjective# #noun.s# ever #didTheThing#",
-        "nobody with #adjective# #noun# ever #didTheThing#"
+        "nobody with #adjective#y #noun.s# ever #didTheThing#",
+        "nobody with #adjective# #noun# ever #didTheThing#",
+        "take responsibility for your own #noun#, never put it in other people’s hands",
+        "you can, you should, and if you’re #adjective# enough to #verb#, you will",
+        "do what is #adjective#, not what is #adjective# nor what is #adjective#",
+        "you must be the #noun# you wish to see in the world",
+        "#verb# deep into nature, and then you will understand everything better"
     ],
     "didTheThing": [
         "won the lottery",
         "faced their demons",
-        "overcame adversity"
+        "overcame adversity",
+        "overcame the angry goose",
+        "owned a dog",
+        "went kitesurfing",
+        "#verbed#",
+        "succesfully #verbed#"
     ],
     "verb": [
         "love",
@@ -29,6 +39,19 @@
         "dream",
         "transform",
         "be an angry goose"
+    ],
+    "verbing": [
+        "loving",
+        "liking",
+        "growing",
+        "helping",
+        "being the best you can be",
+        "drinking water",
+        "choosing",
+        "changing",
+        "dreaming",
+        "transforming",
+        "being an angry goose"
     ],
     "verbs": [
         "loves",
@@ -47,7 +70,6 @@
         "liked",
         "grew",
         "helped",
-        "#noun# came from",
         "drank water",
         "dreamed",
         "hoped"
@@ -76,12 +98,11 @@
         "ungratefulness",
         "love",
         "help",
-        "death",
+        "balloons",
         "optimism",
         "dreams",
         "heart",
-        "chakra",
-        "carbs",
+        "carbohydrate",
         "angry goose"
     ],
     "punctuation": [
