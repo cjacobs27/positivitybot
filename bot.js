@@ -17,8 +17,8 @@ function generateStatus() {
   }
 }
 
-/* app.all("/tweet", function (request, response) { // send a GET or POST to /tweet to trigger a tweet http://expressjs.com/en/starter/basic-routing.html
-  var newStatus = generateStatus();
+app.all("/tweet", function (request, response) { // send a GET or POST to /tweet to trigger a tweet http://expressjs.com/en/starter/basic-routing.html
+  let newStatus = generateStatus();
 
   console.log("Got a hit!");
   if (twitter.tryToTweet(newStatus)){ // Some things could prevent us from tweeting. Find out more in twitter.js
@@ -27,14 +27,16 @@ function generateStatus() {
     response.sendStatus(500); // Something prevented us from tweeting
   }
   
-}); */
+});
 
 // listen for requests :)
-/* var listener = app.listen(process.env.PORT, function () {
+let listener = app.listen(process.env.PORT, function () {
   console.log('Your app is listening on port ' + listener.address().port);
-}); */
+});
 
+/*
 console.log("Here are some example statuses: ");
 for (var i = 0; i < 5; i++) {
   console.log(`✨ ${generateStatus()}`);
 }
+*/
